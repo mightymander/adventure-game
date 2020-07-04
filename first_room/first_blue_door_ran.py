@@ -12,7 +12,7 @@ if wants_wepon == 'yes':
     time.sleep(1)
     print('you found a sword')
     time.sleep(2)
-    exec(open('got_sword_also_run_away.py').read())
+    exec(open('first_des/got_sword_also_run_away.py').read())
 
 else:
     print('\ndont be dumb')

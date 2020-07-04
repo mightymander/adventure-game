@@ -8,3 +8,4 @@ if restart == 'r':
 else:
     sys.exit()
 
+#run this to die exec(open('dead.py').read())

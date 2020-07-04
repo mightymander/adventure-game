@@ -15,4 +15,4 @@ else:
     exec(open('main.py').read())
 
 
-exec(open('first_choice.py').read())
+exec(open('first_des/first_choice.py').read())
